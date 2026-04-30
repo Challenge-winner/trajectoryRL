@@ -59,7 +59,10 @@ def _generate(
     the calling thread until the HTTP request completes.
     """
     model = model or os.environ.get("LLM_MODEL") or os.environ.get("CLAWBENCH_DEFAULT_MODEL", "glm-5.1")
-    if "/" in model:
+    # Only strip a legacy provider triple-prefix like "openrouter/openai/gpt-4o".
+    # Modern endpoints (Chutes "zai-org/GLM-5.1-TEE", OpenRouter "z-ai/glm-5.1")
+    # require the org prefix, so a single-slash name is forwarded as-is.
+    if model.count("/") >= 2:
         model = model.split("/", 1)[1]
     key = resolve_api_key(api_key)
     if not key:
