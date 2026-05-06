@@ -3,128 +3,128 @@
     "uid": 17,
     "coldkey": "test7",
     "hotkey": "hotkey1",
-    "file": "i1.json",
+    "file": "1.json",
     "pack_hash": "c0a40f939378d8018ce1058cec6e2697b4ced0ca43ec9e2847781d648bcd871b",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i1.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/1.json"
   },
   {
     "uid": 25,
     "coldkey": "test8",
     "hotkey": "hotkey1",
-    "file": "i2.json",
+    "file": "2.json",
     "pack_hash": "cf7e26df3b6fb9494df4621c0def10856950dac73e9e38faa0f6b66378a95766",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i2.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/2.json"
   },
   {
     "uid": 28,
     "coldkey": "test62",
     "hotkey": "hotkey1",
-    "file": "i3.json",
+    "file": "3.json",
     "pack_hash": "0775a5fa77f5e3db8cbbc7f50b9d5f726a938e155a0ebd4885ae834f519894ea",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i3.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/3.json"
   },
   {
     "uid": 36,
     "coldkey": "test3",
     "hotkey": "hotkey1",
-    "file": "i4.json",
+    "file": "4.json",
     "pack_hash": "eefbe467057e02621e1c3ee1d3aa20a829aaa9f4cdd98da8b6a1aedbdb8e69f8",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i4.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/4.json"
   },
   {
     "uid": 41,
     "coldkey": "test4",
     "hotkey": "hotkey1",
-    "file": "i5.json",
+    "file": "5.json",
     "pack_hash": "dc547b61267a86d8c92f2bc68fa69747e45b852374afcd3ff97f17e80f04267d",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i5.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/5.json"
   },
   {
     "uid": 77,
     "coldkey": "test61",
     "hotkey": "hotkey1",
-    "file": "i6.json",
+    "file": "6.json",
     "pack_hash": "430cf694de4939e43a9d0d3433098e3295836e9a19e14d4ff21af30f3bff30c8",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i6.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/6.json"
   },
   {
     "uid": 88,
     "coldkey": "test51",
     "hotkey": "hotkey1",
-    "file": "i7.json",
+    "file": "7.json",
     "pack_hash": "5355cccf6ac129a5a22055f447f5d7050fd231214fae760a0ae2211b9fe5ecf7",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i7.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/7.json"
   },
   {
     "uid": 93,
     "coldkey": "test81",
     "hotkey": "hotkey1",
-    "file": "i8.json",
+    "file": "8.json",
     "pack_hash": "ef9e3dddc780970c70e370cdf05e828dd405631da8116549cc2bbd85780ef0d6",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i8.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/8.json"
   },
   {
     "uid": 98,
     "coldkey": "test31",
     "hotkey": "hotkey1",
-    "file": "i9.json",
+    "file": "9.json",
     "pack_hash": "ccd36a4e564c848036f2a0b6db5ea0e40a49794d1e1f7973b1e530af86a55259",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i9.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/9.json"
   },
   {
     "uid": 103,
     "coldkey": "test9",
     "hotkey": "hotkey1",
-    "file": "i10.json",
+    "file": "a.json",
     "pack_hash": "e019c207de9d4f5081efd2d6b267a24e85ad9d01919f7ca4328ab0449e479ef8",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i10.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/a.json"
   },
   {
     "uid": 126,
     "coldkey": "test6",
     "hotkey": "hotkey1",
-    "file": "i11.json",
+    "file": "b.json",
     "pack_hash": "ae48e99d6419ea36160358d12e760e2a9a379e7e73d45c273fc579e24fdd5efb",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i11.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/b.json"
   },
   {
     "uid": 136,
     "coldkey": "test41",
     "hotkey": "hotkey1",
-    "file": "i12.json",
+    "file": "c.json",
     "pack_hash": "53fa57718a213c8d29a89b96c356743d2626a697a6c5676522b882c682e18fc0",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i12.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/c.json"
   },
   {
     "uid": 137,
     "coldkey": "test1",
     "hotkey": "hotkey1",
-    "file": "i13.json",
+    "file": "d.json",
     "pack_hash": "0bd2c19d27beda51da892021074413c3cd3e78ec2d8214625e531bdb744e3ff0",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i13.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/d.json"
   },
   {
     "uid": 141,
     "coldkey": "test32",
     "hotkey": "hotkey1",
-    "file": "i14.json",
+    "file": "e.json",
     "pack_hash": "d07a03aa4bcf9125e16cbbe454dae90161c7c405add24a332e36b295faf074c5",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i14.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/e.json"
   },
   {
     "uid": 146,
     "coldkey": "test91",
     "hotkey": "hotkey1",
-    "file": "i15.json",
+    "file": "f.json",
     "pack_hash": "e6476973b3400dad15feff187032d92d9dcfd78df3a3f677880e661379019ae1",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i15.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/f.json"
   },
   {
     "uid": 155,
     "coldkey": "test5",
     "hotkey": "hotkey1",
-    "file": "i16.json",
+    "file": "g.json",
     "pack_hash": "0eb7c4e22a246ea34c9286162769b4a057e7bae5a56e6b23bc1915c4c52f0879",
-    "pack_url": "https://raw.githubusercontent.com/Bennett-Dan/4/main/i16.json"
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/g.json"
   }
 ]
