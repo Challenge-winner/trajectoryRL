@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
-"""Submit SN11 packs from innovative_manifest.json (Bennett-Dan/4 raw URLs).
+"""Submit SN11 packs from a manifest JSON (raw GitHub URLs + pack hashes).
 
-Run after pushing packs to GitHub so raw.githubusercontent.com returns 200:
+Run after pushing pack JSON to GitHub so raw.githubusercontent.com returns 200:
 
     cd _publish/Bennett-Dan-4-push && git push origin main
 
-Then:
+Then (example: New1–New22 packs, 10-minute spacing):
 
     cd /root/Sn11
     NETUID=11 NETWORK=finney python3 scripts/submit_innovative_manifest.py \\
-        --manifest _publish/innovative_manifest.json
+        --manifest _publish/new22_manifest.json --interval-seconds 600
 
-Uses WALLET_NAME / WALLET_HOTKEY from each manifest row (TrajectoryMiner).
+Uses coldkey / hotkey from each manifest row (TrajectoryMiner).
 """
 
 from __future__ import annotations
