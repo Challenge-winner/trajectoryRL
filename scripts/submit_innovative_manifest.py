@@ -94,20 +94,24 @@ def main() -> int:
         pack_hash = row["pack_hash"]
         pack_url = row["pack_url"]
         miner = TrajectoryMiner(wallet_name=coldkey, wallet_hotkey=hotkey)
-        logging.info("Submitting %s/%s -> %s", coldkey, hotkey, pack_url)
-        if not args.skip_fetch_check:
-            good, err = _verify_pack_url(pack_hash, pack_url)
-            if not good:
-                logging.error("Pack URL check failed (%s/%s): %s", coldkey, hotkey, err)
-                failed += 1
-                continue
-        ok = miner.submit_commitment(pack_hash, pack_url)
-        miner.close()
-        if not ok:
-            logging.error("FAILED %s/%s", coldkey, hotkey)
-            failed += 1
-        else:
-            logging.info("OK %s/%s", coldkey, hotkey)
+        try:
+            logging.info("Submitting %s/%s -> %s", coldkey, hotkey, pack_url)
+            do_submit = True
+            if not args.skip_fetch_check:
+                good, err = _verify_pack_url(pack_hash, pack_url)
+                if not good:
+                    logging.error("Pack URL check failed (%s/%s): %s", coldkey, hotkey, err)
+                    failed += 1
+                    do_submit = False
+            if do_submit:
+                ok = miner.submit_commitment(pack_hash, pack_url)
+                if not ok:
+                    logging.error("FAILED %s/%s", coldkey, hotkey)
+                    failed += 1
+                else:
+                    logging.info("OK %s/%s", coldkey, hotkey)
+        finally:
+            miner.close()
 
         if args.interval_seconds > 0 and idx + 1 < len(manifest):
             logging.info("Waiting %.1fs before next submission…", args.interval_seconds)
