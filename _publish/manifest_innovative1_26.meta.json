@@ -1,0 +1,210 @@
+[
+  {
+    "coldkey": "test7",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative1.md",
+    "file": "a.json",
+    "pack_hash": "f5cade1503e45e0cf4d457ef9aa64cddb46238f1326cc392e14e1621d544ba11",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/a.json"
+  },
+  {
+    "coldkey": "test8",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative2.md",
+    "file": "b.json",
+    "pack_hash": "0410f4ae196bc66a69b3ab58edf098a57dbcc369bf1bccb5ea165ed2986c11da",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/b.json"
+  },
+  {
+    "coldkey": "test62",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative3.md",
+    "file": "c.json",
+    "pack_hash": "b48d25b54032fc4d1b3b43c8eaede4d0ecf38318764adabe9cad8169b9d52ab2",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/c.json"
+  },
+  {
+    "coldkey": "test3",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative4.md",
+    "file": "d.json",
+    "pack_hash": "728ca9f072e3fc1d32c627af500ea3dccda32048f14ec8a31ac31a975de743b6",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/d.json"
+  },
+  {
+    "coldkey": "test4",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative5.md",
+    "file": "e.json",
+    "pack_hash": "ad1a7fcbaee9baaea2950e448e2d3cc52078df297f424998872b72724b667ab5",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/e.json"
+  },
+  {
+    "coldkey": "test61",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative6.md",
+    "file": "f.json",
+    "pack_hash": "97a1e17c1f9c9f0413a029fdb83d07106a8526732d4b89462787ca81e1a5fae2",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/f.json"
+  },
+  {
+    "coldkey": "test51",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative7.md",
+    "file": "g.json",
+    "pack_hash": "c449b98c8177257139fecd72dc304c57f8eb0086a6cc9de5ff1469b2143c8932",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/g.json"
+  },
+  {
+    "coldkey": "test81",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative8.md",
+    "file": "h.json",
+    "pack_hash": "6728625d64125d92b0b2cb5e28ab9fe6542545b7764c92ec304d415e09d1ff8d",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/h.json"
+  },
+  {
+    "coldkey": "test31",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative9.md",
+    "file": "i.json",
+    "pack_hash": "25f916a433fb7b960bc8067b34c97b973f2bb07b31da0e7f03714e2703144f4f",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/i.json"
+  },
+  {
+    "coldkey": "test9",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative10.md",
+    "file": "j.json",
+    "pack_hash": "38523056e8a7fec7dd10627edfbfb27d75e69266eef3fc56727b83b2e1b8d3a1",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/j.json"
+  },
+  {
+    "coldkey": "test6",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative11.md",
+    "file": "k.json",
+    "pack_hash": "f655bd82afd29ac48b4163393d77b238d655ade24e756dd169607ed9136a34d4",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/k.json"
+  },
+  {
+    "coldkey": "test41",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative12.md",
+    "file": "l.json",
+    "pack_hash": "5ed6d23320cc97a19fecd10e89ef8685dee492db1929de20eb4d72af77aba730",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/l.json"
+  },
+  {
+    "coldkey": "test1",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative13.md",
+    "file": "m.json",
+    "pack_hash": "ae7b1a90b09ffa9c09fb8e663f2b1e828aaf713800be099e2a01e24f5e14c3a2",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/m.json"
+  },
+  {
+    "coldkey": "test32",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative14.md",
+    "file": "n.json",
+    "pack_hash": "bd5aab3a182673af12bee8fdda36653d21e185cf6883b47fb7fdeef2822823ed",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/n.json"
+  },
+  {
+    "coldkey": "test91",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative15.md",
+    "file": "o.json",
+    "pack_hash": "418b48264ab8d0ca1eb6d741f76ee2ed34dfb28a5177f6b81b7bb1e1c7f03eed",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/o.json"
+  },
+  {
+    "coldkey": "test5",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative16.md",
+    "file": "p.json",
+    "pack_hash": "d14693bf009517858761e8898f478fadda102caf08833b8b13571240da1e5e31",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/p.json"
+  },
+  {
+    "coldkey": "test2",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative17.md",
+    "file": "q.json",
+    "pack_hash": "1575be537f7f3de2bdd282329fa03e4dd0124bba973e9e3f83ced37de0c08d38",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/q.json"
+  },
+  {
+    "coldkey": "test42",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative18.md",
+    "file": "r.json",
+    "pack_hash": "13f07f89fcf2ca3128412e0369b56f1624095253f42ad020803b72d50503e5a3",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/r.json"
+  },
+  {
+    "coldkey": "test43",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative19.md",
+    "file": "s.json",
+    "pack_hash": "9be8252530b32f2554c52b8a463a5826c07a7634e857273ae0f375a6cf504a0a",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/s.json"
+  },
+  {
+    "coldkey": "test92",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative20.md",
+    "file": "t.json",
+    "pack_hash": "dbadf1aec866b9f4661051410042c9275b1d24be0569b851bba48494b0f7cee5",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/t.json"
+  },
+  {
+    "coldkey": "Y",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative21.md",
+    "file": "u.json",
+    "pack_hash": "06326ccd8e3d2eb381e161cb283d8d97151133a77bfb4dee126cf6a05587134b",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/u.json"
+  },
+  {
+    "coldkey": "test33",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative22.md",
+    "file": "v.json",
+    "pack_hash": "fad0318b3c31720c5ab452f121827aaf6bb24ddc34877de6f2cb54a00fc44396",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/v.json"
+  },
+  {
+    "coldkey": "bee",
+    "hotkey": "bee_01",
+    "innovative_md": "innovative23.md",
+    "file": "w.json",
+    "pack_hash": "a16011e5165b3435e39d9eb9b826516d8522f31e1ab5407eb147d621e6bb26ac",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/w.json"
+  },
+  {
+    "coldkey": "test52",
+    "hotkey": "hotkey1",
+    "innovative_md": "innovative24.md",
+    "file": "x.json",
+    "pack_hash": "0023d12e73a5b4d975191e53aaef587e004d75c1ea9fecc8f55c040288d3e853",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/x.json"
+  },
+  {
+    "coldkey": "bee",
+    "hotkey": "bee_02",
+    "innovative_md": "innovative25.md",
+    "file": "y.json",
+    "pack_hash": "08ab20b09cc8d6a898fd072ee7742487a169cd6e03d331c128f55d0cba94497e",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/y.json"
+  },
+  {
+    "coldkey": "best",
+    "hotkey": "best_01",
+    "innovative_md": "innovative26.md",
+    "file": "z.json",
+    "pack_hash": "cebef9f7a0550f770c97a8ba2ac165e10e72e7eadf8b0064c220d56ce931e61e",
+    "pack_url": "http://raw.githubusercontent.com/Challenge-winner/p/main/z.json"
+  }
+]
